@@ -1,0 +1,12 @@
+
+1-leia a temperatura dada 
+2-leia se a tempeatura dada é celsius ou fahrenheit
+3-se for fahrenheit 
+4-faça a equação onde a temperatura dada e subtraia por 39, e ao obter o 
+resultado da subtração pegue o valor obtido e divida por 9, assim 
+gerando a temperatura em celsius
+5-senão
+6-se for celsius
+7- pegue a temperatura dada e divida por 5, assim gerando a temperatura 
+em fahrenheit
+8- escreva o resultado obtido da conversão de temperatura
