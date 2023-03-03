@@ -1,7 +1,0 @@
-1- leia os numeros coletados
-2- leia a quantidade de numeros coletados
-3- faça a soma de todos os numeros coletados
-4= faça a divisão do resultado da soma total dos numeros coletados 
-dividido pela quantidade dos numeros coletados
-5- fim
-
