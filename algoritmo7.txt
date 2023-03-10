@@ -1,0 +1,7 @@
+1: leia x 
+2: se x igual a 2;
+3; entao escreva é primo
+2: para todos os valores entre 2 e x-1, faça;
+3:   se x/valor_atual tem resto 0;
+4:        entao escreva "Não é primo"
+5: escreva "É primo"
