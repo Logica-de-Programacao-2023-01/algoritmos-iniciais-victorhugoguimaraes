@@ -1,0 +1,9 @@
+1-leia a temperatura dada 
+2-leia se a tempeatura dada é celsius ou fahrenheit
+3-se for fahrenheit 
+4- resultado = (temperatura -32)/1.8
+5-senão
+6-se for celsius
+7-resultado = temperatura x 1.8 + 32
+8- escreva o resultado obtido da conversão de temperatura
+
