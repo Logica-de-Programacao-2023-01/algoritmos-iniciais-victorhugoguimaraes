@@ -1,0 +1,6 @@
+1 - leia x 
+2 - var produto = 1 
+3 - para todo numero de 1 até x faça; 
+4 - faça produto = produto * numero_atua
+5 - escreva produto
+
